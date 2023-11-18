@@ -1,4 +1,23 @@
 # telegram_bot
+## I will be programming the Telegram bot entirely using the Python programming language.So you must have Python 3 installed on your system and have variables setup with scripts.
+![image](https://github.com/masshuvo/telegram_bot/assets/108648096/93407d53-e5c1-4954-906d-86a992d6f67c)
+path then enter:
+![image](https://github.com/masshuvo/telegram_bot/assets/108648096/f4d09e0c-515c-4b96-bd91-97442496a9eb)
+
+1st line : 
+```
+C:\Program Files\Python312\
+```
+2nd line :
+```
+C:\Program Files\Python312\Scripts\
+```
+then save : This location must be the address where your first Python programming is installed on your computer.
+like this : 
+
+![image](https://github.com/masshuvo/telegram_bot/assets/108648096/c3060206-9313-4ea5-a701-b7be12e0e304)
+
+
 
 ### install package 1st
 Remember to install the telebot library if you haven't already by running:
