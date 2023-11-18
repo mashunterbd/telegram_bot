@@ -1,5 +1,9 @@
 # telegram_bot
 ## I will be programming the Telegram bot entirely using the Python programming language.So you must have Python 3 installed on your system and have variables setup with scripts.
+
+error like this : WARNING: The script normalizer.exe is installed in 'C:\Users\M.A.S SHUVO\AppData\Roaming\Python\Python312\Scripts' which is not on PATH.
+  Consider adding this directory to PATH or, if you prefer to suppress this warning, use --no-warn-script-location. 
+</br>
 ![image](https://github.com/masshuvo/telegram_bot/assets/108648096/93407d53-e5c1-4954-906d-86a992d6f67c)
 </br> 
 </br> path then enter:
