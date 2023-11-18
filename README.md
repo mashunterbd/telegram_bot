@@ -27,7 +27,7 @@ like this :
 
 ![image](https://github.com/masshuvo/telegram_bot/assets/108648096/c3060206-9313-4ea5-a701-b7be12e0e304)
 
-
+#open visual code studio then follow the step 👇;
 
 ### install package 1st
 Remember to install the telebot library if you haven't already by running:
